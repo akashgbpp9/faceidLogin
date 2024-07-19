@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Montserrat-Bold.ttf",
+      "sha1": "04052dc3b846609216de1e0cbcec337c6b6e74f6"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Medium.ttf",
+      "sha1": "6b57d12e018c64352e202f8ef3bf7f431f76d935"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "de57aa03e4821fdbe6c34ec2c895e8b5c914e837"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-SemiBold.ttf",
+      "sha1": "8580dec824bbdb6ce24d04d3aaf360776339f0a7"
+    },
+    {
+      "path": "src/assets/fonts/Pockota-Bold.otf",
+      "sha1": "e24ad63c34fa0901129ef568f8df24eb5d44f7e6"
+    },
+    {
+      "path": "src/assets/fonts/Pockota-Medium.otf",
+      "sha1": "f0a355514145a6ae34ee468935ecefcb942363db"
+    },
+    {
+      "path": "src/assets/fonts/Pockota-Regular.otf",
+      "sha1": "1f17b5e220f1dda0c1276913134aeca0be0ac579"
+    }
+  ]
+}
