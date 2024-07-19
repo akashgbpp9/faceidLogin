@@ -52,7 +52,6 @@ const Login = ({navigation}: AppNavigationProps<'Login'>) => {
     errors,
     touched,
     isSubmitting,
-    setSubmitting,
   } = useFormik({
     validationSchema: LoginSchema,
     initialValues: {
@@ -202,7 +201,7 @@ const styles = StyleSheet.create({
   },
   img1: {
     alignSelf: 'center',
-    height: 100,
+    height: 150,
     width: 144,
     marginTop: '2%',
   },

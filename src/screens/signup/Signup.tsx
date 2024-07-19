@@ -209,7 +209,7 @@ const styles = StyleSheet.create({
   },
   img1: {
     alignSelf: 'center',
-    height: 100,
+    height: 150,
     width: 144,
     marginTop: '2%',
   },
